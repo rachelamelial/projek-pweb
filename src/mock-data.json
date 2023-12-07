@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "fullName": "Budi Pekerti",
+      "address": "Pekanbaru",
+      "phoneNumber": "08234444",
+      "email": "budi.pekerti@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Siti Rahayu",
+      "address": "Surabaya",
+      "phoneNumber": "08122244",
+      "email": "siti.rahayu@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Dwi Setiawan",
+      "address": "Bogor",
+      "phoneNumber": "08123456",
+      "email": "dwi.setiawan@email.com"
+    }
+  ]
